@@ -83,21 +83,36 @@ experiences:
       time: 2018 - Present
       company: EPAM Systems, Kyiv
       details: |
+        ##### Business Information and Media Project
+          - Found the workaround to publish the MadCap Flare HTML5 output in SharePoint Online by mapping the SharePoint location as a network drive
+          - Created GitLab group and branches for all technical writers on our project
+          - Created the workflow and instructions to bind the MadCap project to the Git repository, commit/push/pull/merge changes and publish to SharePoint Online
+          - Created user guides and video tutorial for the web portals to view and validate metadata
+          - Created the project glossary in SharePoint and in MadCap Flare
+          - Created a separate project in MadCap Flare and GitLab for the project Style Guide
+          - Demonstrated the documentation portal capabilities and the team workflows for the leadership
+          - Participated in the meetings with the leadership on behalf of all the team
+
+        ##### Pharmaceuticals, Life Sciences & Healthcare Project
           - Wrote about MDM systems, ETL and DWH
           - Traveled to New York to work on-site for Discovery phase
           - Worked closely with the solution architect and assisted in writing the Solution Architecture Document
           - Learned about AWS, Redshift, Aurora, PostgreSQL, S3 buckets, Lambda, CloudWatch, CloudFormation, EC2, ELB, Airflow, Tomcat server, SemQL, Informatica Cloud, Spark, Parquet, domain model, logical data model
           - Worked with MadCap Flare, Confluence, GitHub, Draw.io
+          - Found the workaround to publish the MadCap Flare HTML5 output in SharePoint Online by mapping the SharePoint location as a network drive
 
     - role: Lead Technical Writer
       time: 2017 - 2018
       company: Betlab (Parimatch), Kyiv
       details: |
-          - Wrote concepts (software requirements), SRS and user manuals for various betting software products
-          - Gathered information about software products from developers
-          - Acted as a technical lead in tech writers team (4 people)
-          - Implemented MemoQ CAT tool and created a database of translations and terminology
-          - Worked with Jira, Confluence, GIT tools
+          - Managed the team of three other technical writers acting as a team lead
+          - Controlled the quality of documentation produced by other technical writers
+          - Implemented localization for the project documentation using memoQ and MadCap Flare
+          - Wrote technical documentation for the software products such as product concepts, user guides, quick start guides, SRS specifications
+          - Described the system architecture in Confluence
+          - Described APIs using Swagger and Open API in Confluence
+          - Worked closely with the solution architect and lead developers
+          - Draw diagrams of system components interaction in draw.io
 
     - role: Translator/Editor
       time: 2014 - 2017
@@ -107,7 +122,6 @@ experiences:
           - Worked as a full-time translator at Technolex Translation Studio (English-Russian-Ukrainian language pairs)
           - Translated and localized the projects for various customers (Microsoft, Google, Sony, Canon, Toshiba, AVG, Avast, Blackboard, GE, etc.)
           - Used the translation software extensively (SDL Trados, SDL Trados Studio, SDL MultiTerm, TagEditor, Translation Workspace XLIFF Editor, Alchemy Catalyst, Idiom, memoQ, MemSource Editor, Oddjob, Helium, Passolo Translator 2011, Xbench, etc.)
-
 skills:
     title: Skills &amp; Proficiency
 
