@@ -62,13 +62,13 @@ career-profile:
 education:
     - degree: Master's degree in translation
       university: Kyiv International University
-      time: 2005 - 2008
+      time: 2005 — 2008
       details: |
           - Institute of Linguistics, second higher education
           - Certified English translator and interpreter
 
     - degree: Master's degree in linguistics (English, French)
-      university: National Pedagogical Dragрomanov University, Kyiv
+      university: National Pedagogical Dragomanov University, Kyiv
       time: 1998 - 2003
       details: |
           - 3 years of experience as a technical writer
@@ -80,7 +80,7 @@ education:
           - Fluent English, intermediate French, native Ukrainian and Russian languages
 experiences:
     - role: Senior Technical Writer
-      time: 2018 - Present
+      time: 2018 — Present
       company: EPAM Systems, Kyiv
       details: |
         ##### Business Information and Media Project
@@ -110,7 +110,7 @@ experiences:
           - Described the system architecture in Confluence
           - Described APIs using Swagger and Open API in Confluence
           - Worked closely with the solution architect and lead developers
-          - Draw diagrams of system components interaction in draw.io
+          - Created diagrams of system components interaction in draw.io
 
     - role: Translator/Editor
       time: 2014 - 2017
