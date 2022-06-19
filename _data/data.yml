@@ -36,9 +36,6 @@ sidebar:
       - idiom: Ukrainian
         level: native
 
-      - idiom: Russian
-        level: native        
-
     interests:
       - item: Static Site Generators
         link:
@@ -52,7 +49,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-          - 4 years of experience as a technical writer
+          - 5 years of experience as a technical writer
           - 10+ years of experience in translation and interpreting
           - Experience in using MadCap Flare for writing technical documentation
           - Confluence, Jira, Draw.io, Git
@@ -83,7 +80,41 @@ experiences:
       time: 2018 – Present
       company: EPAM Systems, Kyiv
       details: |
-        ##### Business Information and Media Project
+        ##### Business information and media project
+          - Described the tools for data modelling that generate GraphQL schema and configuration
+          - Maintained and created the documentation:
+            - GraphQL API Specification in Confluence
+            - Reference documentation for GraphQL in the API Playground (Markdown readme)
+            - The readme.md for GitHub repository with Jupyter Notebooks
+          - Created the Handlebars.js configuration for the GraphQL sample queries
+          - Worked with Jupyter Notebooks, Handlebars.js, GraphQL API, Swagger, VS Code, GitLab, GitHub, Angular.js, Docusaurus
+        
+        ##### Retail & distribution Azure machine learning project
+          - Created a general project description document
+          - Described the project goal and high-level architecture
+          - Described the technology stack
+          - Described in detail the ADF pipelines and Python scripts
+          - Created the description of the scripts (reverse engineering of Python scripts for data transformations)
+          - Created the project glossary of abbreviations and terms
+        
+        ##### Software & hi-tech project
+          - Created user guides for the customer's web portals
+          - Used MadCap Flare to create the engaging end-user documentation
+        
+        ##### Business information and media project
+          - Rebranded the customer's online help using MadCap Flare
+          - Used MadCap Flare to edit the legacy online help modules published to the app server as an HTML5 output
+          - Conducted inventory of the exisiting apps and online help, discussed them with product owners
+        
+        ##### Software & hi-tech SAP S4HANA finance system project
+          - Described business processes and workflows used for developing and customizing the SAP system
+          - Described the change request (CR) workflow
+          - Created the Confluence templates for change requests
+          - Interviewed the SMEs and described the steps required to perform the transactions in the SAP systems (open/close periods, etc.)
+          - Created the project glossary and linked the terms from other Confluence KB pages
+          - Showed the demo for the project documentation to the team
+        
+        ##### Business information and media project
           - Found the workaround to publish the MadCap Flare HTML5 output in SharePoint Online by mapping the SharePoint location as a network drive
           - Created GitLab group and branches for all technical writers on our project
           - Created the workflow and instructions to bind the MadCap project to the Git repository, commit/push/pull/merge changes and publish to SharePoint Online
@@ -93,7 +124,7 @@ experiences:
           - Demonstrated the documentation portal capabilities and the team workflows for the leadership
           - Participated in the meetings with the leadership on behalf of all the team
 
-        ##### Pharmaceuticals, Life Sciences & Healthcare Project
+        ##### Pharmaceuticals, life sciences & healthcare project
           - Wrote about MDM systems, ETL and DWH
           - Traveled to New York to work on-site for Discovery phase
           - Worked closely with the solution architect and assisted in writing the Solution Architecture Document
