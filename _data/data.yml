@@ -17,6 +17,7 @@ sidebar:
     # website: blog.webjeda.com #do not add http://
     skype: ivan_cheban
     telegram: ivan_cheban
+    website: https://docsy-site.netlify.app/docs/
     linkedin: ivan-cheban-a24b576
     github: ivancheban
     gitlab: ivancheban
@@ -50,10 +51,10 @@ career-profile:
     title: Career Profile
     summary: |
           - 5 years of experience as a technical writer
-          - 10+ years of experience in translation and interpreting
+          - Docs-as-code, static site generators experience
           - Experience in using MadCap Flare for writing technical documentation
-          - Confluence, Jira, Draw.io, Git
-          - Experience in writing about betting software, security systems, CMS, MDM systems
+          - Confluence, Jira, Draw.io, GitHub, GitLab, Bitbucket
+          - Experience in writing about fintech, life sciences & healthcare, security systems, CMS, MDM systems
           - Certified English translator
 
 education:
@@ -74,7 +75,7 @@ education:
           - Confluence, Jira, Draw.io, Git
           - Experience in writing about betting software, security systems, CMS, MDM systems
           - Certified English translator
-          - Fluent English, intermediate French, native Ukrainian and Russian languages
+          - Fluent English, intermediate French, native Ukrainian
 experiences:
     - role: Senior Technical Writer
       time: 2018 – Present
@@ -143,14 +144,6 @@ experiences:
           - Worked closely with the solution architect and lead developers
           - Created diagrams of system components interaction in draw.io
 
-    - role: Translator/Editor
-      time: 2014 - 2017
-      company: Technolex Translation Studio, Kyiv
-      details: |
-          - Translated projects in IT: data storage, web-based systems, etc.
-          - Worked as a full-time translator at Technolex Translation Studio (English-Russian-Ukrainian language pairs)
-          - Translated and localized the projects for various customers (Microsoft, Google, Sony, Canon, Toshiba, AVG, Avast, Blackboard, GE, etc.)
-          - Used the translation software extensively (SDL Trados, SDL Trados Studio, SDL MultiTerm, TagEditor, Translation Workspace XLIFF Editor, Alchemy Catalyst, Idiom, memoQ, MemSource Editor, Oddjob, Helium, Passolo Translator 2011, Xbench, etc.)
 skills:
     title: Skills &amp; Proficiency
 
@@ -167,11 +160,11 @@ skills:
       - name: Jira
         level: 80%
 
-      - name: Microsoft Word
+      - name: Docusaurus
         level: 85%
 
-      - name: SharePoint Online
-        level: 60%
+      - name: VuePress
+        level: 80%
 
       - name: Snagit
         level: 88%
@@ -180,4 +173,4 @@ skills:
         level: 75%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Ivan Cheban 2022
