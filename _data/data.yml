@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: ivancheban@gmail.com
     phone: +380 (95) 274 8078
-    website: docsy-site.netlify.app/docs/
+    website: https://tw-docs.com
     skype: ivan_cheban
     telegram: ivan_cheban
     linkedin: ivan-cheban-a24b576
@@ -172,4 +172,4 @@ skills:
         level: 75%
 
 footer: >
-    Ivan Cheban 2022
+    (C) Ivan Cheban 2023
