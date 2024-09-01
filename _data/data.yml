@@ -49,37 +49,43 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-          - 6 years of experience as a technical writer
-          - Docs-as-code, static site generators experience
-          - Experience in using MadCap Flare for writing technical documentation
-          - Confluence, Jira, Draw.io, GitHub, GitLab, Bitbucket
-          - Experience in writing about fintech, life sciences & healthcare, security systems, CMS, MDM systems
-          - Certified English translator
+          - 7 years of experience as a technical writer
+          - Experienced Senior Technical Writer and Lead Technical Writer
+          - Well organized and detail-oriented
+          - Able to work independently as well as collaboratively on a team, flexible
+          - Experienced in working under tight deadlines
+          - Fast learner, willing to learn new skills
 
-education:
-    - degree: Master's degree in translation
-      university: Kyiv International University
-      time: 2005 — 2008
-      details: |
-          - Institute of Linguistics, second higher education
-          - Certified English translator and interpreter
-
-    - degree: Master's degree in linguistics (English, French)
-      university: National Pedagogical Dragomanov University, Kyiv
-      time: 1998 - 2003
-      details: |
-          - 3 years of experience as a technical writer
-          - 10+ years of experience in translation and interpreting
-          - Experience in using MadCap Flare for writing technical documentation
-          - Confluence, Jira, Draw.io, Git
-          - Experience in writing about betting software, security systems, CMS, MDM systems
-          - Certified English translator
-          - Fluent English, intermediate French, native Ukrainian
 experiences:
     - role: Senior Technical Writer
       time: 2018 – Present
       company: EPAM Systems, Kyiv
       details: |
+        ##### A global technology company. The company provides sustainable energy solutions to buildings, utilities, industries, and infrastructure sectors, headquartered in Zurich, Switzerland
+          - Development of a web-based user interface application providing geographical network representation and its state visualization, which improves situational awareness of operators and field crew personnel to make efficient and correct decisions. It allows efficient analysis and diagnosis as well as enables a quicker time to establish an action plan.
+          - Create the end-user documentation for the users of an application: User Guide, Release Notes
+          - Create the documentation for administrators and developers: Installation Guide
+          - Provide updates to the online documentation for existing products using MadCap Flare and custom-built documentation tools with Markdown
+          - Technologies: Azure DevOps, Confluence, Git, Visual Studio Code, MadCap Flare, Docker Desktop, Kubernetes
+
+        ##### A leading provider of cloud-ready privileged access, California, USA
+          - Cloud infrastructure entitlements management solution to govern resources and identities for the cloud service providers like Azure, AWS, or GCP.
+          - Writing technical documentation for the project:
+            - Solution Architecture Document
+            - API Reference docs
+            - CI/CD pipelines description
+            - Maintain Confluence KB of the new platform architecture
+            - Write readme for repos with developer code (.NET Core, Angular)
+            - End-user docs: user guides and how-tos.
+          - Azure DevOps repositories and wiki from code, Swagger, Visual Studio Code and Git flow, docs-as-code, Markdown and Help Authoring Tools (HAT) for PDF, SonarQube and WhiteSource for CI/CD pipelines description, .NET, Angular.
+
+        ##### A Global Services Provider for the Life Science industry that implements omnichannel projects and communication strategies for the global pharmaceutical market, Ukraine, Estonia, USA, Canada, India
+          - Content Experience Platform is an all-in-one solution for content management and acceleration developed specifically for the needs of pharmaceutical marketing.
+          - Use static site generator for building the docs site for the product framework
+          - Describe APIs, CLI, code examples
+          - Prepare release notes for the framework and CLI features updates
+          - Technologies: JavaScript, Vue.js, VuePress, GitLab, Visual Studio Code, Vale linter, Confluence, Jira, TeamCity
+        
         ##### Business information and media project
           - Described the tools for data modelling that generate GraphQL schema and configuration
           - Maintained and created the documentation:
@@ -143,15 +149,35 @@ experiences:
           - Worked closely with the solution architect and lead developers
           - Created diagrams of system components interaction in draw.io
 
+education:
+    - degree: Master's degree in translation
+      university: Kyiv International University
+      time: 2005 — 2008
+      details: |
+          - Institute of Linguistics, second higher education
+          - Certified English translator and interpreter
+
+    - degree: Master's degree in linguistics (English, French)
+      university: National Pedagogical Dragomanov University, Kyiv
+      time: 1998 - 2003
+      details: |
+          - 3 years of experience as a technical writer
+          - 10+ years of experience in translation and interpreting
+          - Experience in using MadCap Flare for writing technical documentation
+          - Confluence, Jira, Draw.io, Git
+          - Experience in writing about betting software, security systems, CMS, MDM systems
+          - Certified English translator
+          - Fluent English, intermediate French, native Ukrainian
+
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: MadCap Flare
-        level: 90%
+        level: 100%
 
       - name: Confluence
-        level: 90%
+        level: 100%
 
       - name: Git
         level: 80%
@@ -166,10 +192,10 @@ skills:
         level: 80%
 
       - name: Snagit
-        level: 88%
+        level: 100%
 
       - name: Draw.io
-        level: 75%
+        level: 80%
 
 footer: >
-    (C) Ivan Cheban 2023
+    (C) Ivan Cheban 2024
